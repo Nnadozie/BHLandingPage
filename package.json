@@ -1,0 +1,8 @@
+{
+  "name": "BHLandingPage",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Nnadozie/BHLandingPage.git",
+  "author": "Nnadozie Okeke <n.e.okeke@outlook.com>",
+  "license": "MIT"
+}
